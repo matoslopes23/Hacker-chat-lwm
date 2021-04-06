@@ -1,3 +1,3 @@
-Pré requisto- node js versão 15
+## Pré requisto- node js versão 15
 
-sertifiqui-se de instalar todas as dependências
+- sertifiqui-se de instalar todas as dependências
